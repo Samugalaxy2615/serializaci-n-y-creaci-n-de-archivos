@@ -24,4 +24,22 @@ Este proyecto realiza dos tipos de persistencia:
 ## Estructura repositorio:
 ![image](https://github.com/user-attachments/assets/4443043a-3719-4791-9a4a-0a7e70339763)
 
+## 📋 Resultado Esperado en Consola
+Datos serializados en personas.ser
+PersonaComun{nombre='Laura', edad=28, direccion='Calle Falsa 123'}
+Laura es una persona común.
+Estudiante{nombre='Carlos', edad=20, direccion='Cra 45'}, carrera='Ingeniería'
+Carlos es un estudiante de Ingeniería.
+Profesor{nombre='Diana', edad=40, direccion='Av. Siempre Viva'}, asignatura='Matemáticas'
+Diana es profesor de Matemáticas.
+Datos escritos en personas.txt
+Contenido de personas.txt:
+PersonaComun{nombre='Laura', edad=28, direccion='Calle Falsa 123'}
+Estudiante{nombre='Carlos', edad=20, direccion='Cra 45'}, carrera='Ingeniería'
+Profesor{nombre='Diana', edad=40, direccion='Av. Siempre Viva'}, asignatura='Matemáticas'
+
+## ✅ Ejecucion en tiempo real 
+![image](https://github.com/user-attachments/assets/fcf49b20-c00c-4561-b62c-4529ccc4888b)
+
+
 
