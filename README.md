@@ -21,10 +21,7 @@ Este proyecto realiza dos tipos de persistencia:
    - Guarda una representación legible del objeto con `BufferedWriter`
    - Se puede leer línea por línea con `BufferedReader`
 
-## 💡 Interfaz `Deberes`
+## Estructura repositorio:
+![image](https://github.com/user-attachments/assets/4443043a-3719-4791-9a4a-0a7e70339763)
 
-```java
-public interface Deberes {
-    void mostrarRol();
-}
 
