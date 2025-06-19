@@ -25,6 +25,9 @@ Este proyecto realiza dos tipos de persistencia:
 ![image](https://github.com/user-attachments/assets/4443043a-3719-4791-9a4a-0a7e70339763)
 
 ## 📋 Resultado Esperado en Consola
+### 📋 Resultado Esperado en Consola
+
+```console
 Datos serializados en personas.ser
 PersonaComun{nombre='Laura', edad=28, direccion='Calle Falsa 123'}
 Laura es una persona común.
@@ -37,6 +40,7 @@ Contenido de personas.txt:
 PersonaComun{nombre='Laura', edad=28, direccion='Calle Falsa 123'}
 Estudiante{nombre='Carlos', edad=20, direccion='Cra 45'}, carrera='Ingeniería'
 Profesor{nombre='Diana', edad=40, direccion='Av. Siempre Viva'}, asignatura='Matemáticas'
+
 
 
 
