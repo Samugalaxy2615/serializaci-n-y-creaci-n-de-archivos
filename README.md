@@ -39,6 +39,7 @@ Estudiante{nombre='Carlos', edad=20, direccion='Cra 45'}, carrera='Ingeniería'
 Profesor{nombre='Diana', edad=40, direccion='Av. Siempre Viva'}, asignatura='Matemáticas'
 
 
+
 ## ✅ Ejecucion en tiempo real 
 ![image](https://github.com/user-attachments/assets/fcf49b20-c00c-4561-b62c-4529ccc4888b)
 
