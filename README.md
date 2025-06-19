@@ -39,7 +39,9 @@ Contenido de personas.txt:
 PersonaComun{nombre='Laura', edad=28, direccion='Calle Falsa 123'}
 Estudiante{nombre='Carlos', edad=20, direccion='Cra 45'}, carrera='Ingeniería'
 Profesor{nombre='Diana', edad=40, direccion='Av. Siempre Viva'}, asignatura='Matemáticas'
-
+```
+## ✅ Ejecucion del programa
+![image](https://github.com/user-attachments/assets/fac78dc2-40a9-4da5-ba56-67c65edde46f)
 
 
 
